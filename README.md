@@ -6,10 +6,10 @@ The folder corresspnding to above drive link contains codes, dataset and report 
 
 ##FILES
 
-data: contains the Multi Target CONAN dataset
+/data: contains the Multi Target CONAN dataset
 
-gpt2-finetuned: contains the finetuned gpt2 model and the training results
+/gpt2-finetuned: contains the finetuned gpt2 model and the training results
 
-LLM_based_approach: contains the result of LLM based approach of counterspeech generation
+/LLM_based_approach: contains the result of LLM based approach of counterspeech generation
 
 Prompt based.ipynb : jupyter notebook containing the results of prompt based approach of counterspeech generation
